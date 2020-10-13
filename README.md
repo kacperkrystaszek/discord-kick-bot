@@ -1,7 +1,7 @@
 # discord-kick-bot
 discord bot that kicks deafened, muted or afk users and creates rank
 
-bot reacts to events like deafening, muting or being afk. timer is set to 15 minutes, after that it kicks out user from server. there is set a command &rank which shows up ranking of ever kicked users. the & prefix can be changed in file. 
+bot reacts to events like deafening, muting or being afk. timer is set to 15 minutes, after this user is kicked out from server. there is set a command &rank which shows up ranking of ever kicked users. the & prefix can be changed in file. 
 
 check file discordbot.py and where it's said, write your settings. 
 
